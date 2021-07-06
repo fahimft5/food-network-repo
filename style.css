@@ -74,3 +74,10 @@ h1{
     width: 100%;
     height: 250px;
 }
+.footer-1{
+    background: #303036;
+    color: #d3d3d3;
+    text-align: center;
+    height: 220px;
+    padding-top: 20px;
+}
