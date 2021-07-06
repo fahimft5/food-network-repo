@@ -7,7 +7,7 @@ h1{
 .orange-color{
     color: orange;
 }
-section{
+.top-banner{
     display: flex;
 }
 .haif-width{
@@ -30,7 +30,7 @@ section{
     height: 100vh;
     background-size: contain;
     position: relative;
-    margin-top: 20px;
+    margin-top: 30px;
 }
 .about-me{
     width: 30%;
@@ -39,4 +39,38 @@ section{
 }
 .recipies{
     text-align: center;
+}
+.recipies-title{
+    display: flex;
+    margin: 2% 6%;
+}
+.title-1{
+    margin-right: 4%;
+    padding: 15px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 40px gray; 
+}
+.title-1 img{
+    width: 100%;
+    height: 250px; 
+}
+.title-2{
+    margin-right: 4%;
+    padding: 15px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 40px gray;
+}
+.title-2 img{
+    width: 100%;
+    height: 250px;
+}
+.title-3{
+    margin-right: 4%;
+    padding: 15px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 40px gray;
+}
+.title-3 img{
+    width: 100%;
+    height: 250px;
 }
