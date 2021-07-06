@@ -37,6 +37,7 @@ h1{
     width: 30%;
     padding-left:  55%;
     margin-top: 200px;
+    padding-top: 9%;
 }
 .recipies{
     text-align: center;
@@ -82,3 +83,18 @@ h1{
     height: 220px;
     padding-top: 20px;
 }
+.menu-bar{
+    background-color: orange;
+    text-align: center;
+}
+.menu-bar h2{
+     display: inline-flex;
+     text-decoration: none;
+    list-style: none;
+    color: white;
+    width: 150px;
+    margin: 30px;
+    padding: 10px 10px 20px 30px;
+    border-radius: 30px;
+    background: orangered
+    }
